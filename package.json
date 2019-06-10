@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/OTPDevs/workboard#readme",
   "dependencies": {
-    "pomegranate": "7.0.0-beta.13",
-    "pomegranate-example-plugin": "0.0.6"
+    "@restmatic/server": "^0.2.0",
+    "pomegranate": "^7.0.0-beta.13"
+  },
+  "devDependencies": {
+    "pomegranate-cli": "^1.0.1"
   }
 }
