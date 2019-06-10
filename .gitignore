@@ -1,0 +1,16 @@
+/node_modules/*
+.nyc_output
+coverage/
+.idea/
+*.off/
+*.sqlite
+*.log
+.DS_Store
+env.json
+/scratch
+.npmrc
+index.js
+index.js.map
+index.d.ts
+package-lock.json
+yarn.lock

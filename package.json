@@ -1,0 +1,29 @@
+{
+  "name": "workboard",
+  "version": "1.0.0",
+  "description": "This project is a workboard for OTP individuals looking for opportunities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OTPDevs/workboard.git"
+  },
+  "keywords": [
+    "work",
+    "jobs",
+    "employement",
+    "atlanta"
+  ],
+  "author": "Gerald M. Tremblay",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/OTPDevs/workboard/issues"
+  },
+  "homepage": "https://github.com/OTPDevs/workboard#readme",
+  "dependencies": {
+    "pomegranate": "7.0.0-beta.13",
+    "pomegranate-example-plugin": "0.0.6"
+  }
+}
